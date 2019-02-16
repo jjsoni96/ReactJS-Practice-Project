@@ -12,8 +12,9 @@ Installing Node.js® and NPM is pretty straightforward using the installer packa
   3) Follow the prompts in the installer (Accept the license agreement, click the NEXT button a bunch of times and accept the default installation settings). 
   4) Restart your computer. You won’t be able to run Node.js until you restart your computer.
 
+Installation of NodeJS on Mac - https://blog.teamtreehouse.com/install-node-js-npm-mac
 
-Installation for ReactJS(Windows)
+Installation for ReactJS(Windows, Mac)
   1) Open Command Prompt where the Project is cloned
   2) npm install -g create-react-app
   3) cd <project-name>
