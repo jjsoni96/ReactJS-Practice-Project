@@ -1,4 +1,5 @@
 # ReactJS-Practice-Project
+This is a To-Do List App. It is made by learning React Crash Course taught by Traversy Media on YouTube.
 This repository is created to showcase the work done while learning ReactJS and Redux. The work done on both is quite basic and it was done with the help of various tutorials available on YouTube.
 
 To run these projects, NodeJS should be installed on the system. 
